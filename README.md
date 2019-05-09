@@ -21,8 +21,5 @@ The project contains the following tasks:
 - user-item-interactions.csv: file contains user interaction.
 - articles_community.csv: file contains articles description.  
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 I would like to thank [Udacity](https://eu.udacity.com/) for this amazing project, and [IBM](https://dataplatform.cloud.ibm.com/) for providing the data.
